@@ -1,12 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
 * {
   box-sizing: border-box;
 }
+
 .header {
   width: 100%;
   height: 100%;
   position: relative;
 }
+
 .LogoPlaceholder {
   width: 100%;
   height: 100%;
@@ -18,22 +21,25 @@
   align-items: center;
   display: inline-flex;
 }
+
 .MyLogo {
   text-align: center;
   color: #6070ff;
   font-size: 18px;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-weight: 700;
   line-height: 40px;
   word-wrap: break-word;
   display: flex;
   padding-left: 15px;
 }
+
 .Menu {
   width: 24px;
   height: 24px;
   position: relative;
 }
+
 .IconHamburger {
   padding: 8px;
   left: 311px;
@@ -45,6 +51,7 @@
   align-items: flex-start;
   display: inline-flex;
 }
+
 .headline {
   background-image: url("./header-shapes\ mobile.png");
   background-repeat: no-repeat;
@@ -62,21 +69,23 @@
   border-bottom-left-radius: 100px;
   border-color: aqua;
 }
+
 .PrimaryText {
   width: 327px;
   height: 150px;
   color: #172b4d;
   font-size: 40px;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-weight: 700;
   line-height: 52px;
 }
+
 .PrimaryText2 {
   width: 327px;
   height: 146px;
   color: #344563;
   font-size: 16px;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-weight: 400;
   line-height: 24px;
   word-wrap: break-word;
@@ -88,16 +97,17 @@
   justify-content: flex-start;
   align-items: center;
   gap: 8px;
-  display: inline-flex;
 }
+
 .LetsConnect {
   color: #7f8cff;
   font-size: 16px;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-weight: 500;
   line-height: 24px;
   word-wrap: break-word;
 }
+
 .fa-bars {
   width: 20px;
   height: 12px;
