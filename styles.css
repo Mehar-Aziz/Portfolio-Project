@@ -181,3 +181,14 @@ button {
   letter-spacing: 0.51px;
   word-wrap: break-word;
 }
+
+.maintitle_multipost {
+  height: 80px;
+  width: 295px;
+  color: #172b4d;
+  font-size: 32px;
+  font-family: Poppins, serif;
+  font-weight: 700;
+  line-height: 44px;
+  word-wrap: break-word;
+}
