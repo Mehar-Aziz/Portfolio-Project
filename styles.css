@@ -1,0 +1,136 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+@media only screen and (max-width: 767px) {
+  * {
+    box-sizing: border-box;
+  }
+
+  .background {
+    width: 100%;
+    height: auto;
+    justify-items: center;
+    align-items: flex-start;
+    display: grid;
+    background: #f5f5f5;
+  }
+
+  .header {
+    width: 375px;
+    height: 100%;
+    position: relative;
+    background-color: white;
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  .logoplaceholder {
+    width: 100%;
+    height: 100%;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: flex-start;
+    align-items: center;
+    display: inline-flex;
+  }
+
+  .mylogo {
+    text-align: center;
+    color: #6070ff;
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    line-height: 40px;
+    word-wrap: break-word;
+    display: flex;
+    padding-left: 15px;
+  }
+
+  .menu {
+    width: 24px;
+    height: 24px;
+    position: relative;
+  }
+
+  .icon-hamburger {
+    padding: 8px;
+    left: 311px;
+    top: 4px;
+    position: absolute;
+    border-radius: 8px;
+    overflow: hidden;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: inline-flex;
+  }
+
+  .headline {
+    background-image: url("./header-shapes\ mobile.png");
+    background-repeat: no-repeat;
+    background-color: white;
+    width: 375px;
+    height: 604px;
+    padding-left: 22px;
+    padding-right: 24px;
+    padding-top: 105px;
+    padding-bottom: 114px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 12px;
+    display: flex;
+    border-bottom-left-radius: 100px;
+    border-color: aqua;
+  }
+
+  .primary-text {
+    width: 327px;
+    height: 150px;
+    color: #172b4d;
+    font-size: 40px;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    line-height: 52px;
+  }
+
+  .primary-text2 {
+    width: 327px;
+    height: 146px;
+    color: #344563;
+    font-size: 16px;
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word;
+  }
+
+  .supporttext {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .letsconnect {
+    color: #7f8cff;
+    font-size: 16px;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    line-height: 24px;
+    word-wrap: break-word;
+  }
+
+  .fa-bars {
+    width: 20px;
+    height: 12px;
+    left: 3px;
+    top: 6px;
+    position: absolute;
+    color: #6070ff;
+    font-size: 20px;
+  }
+}
