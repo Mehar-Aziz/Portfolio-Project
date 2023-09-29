@@ -410,7 +410,7 @@
     display: flex;
     justify-content: space-between;
     color: #000;
-    font-family: Poppins, Arial, Helvetica, sans-serif;
+    font-family: Poppins, serif;
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
@@ -422,7 +422,7 @@
     display: flex;
     justify-content: space-between;
     color: #000;
-    font-family: Poppins, Arial, Helvetica, sans-serif;
+    font-family: Poppins, serif;
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
@@ -434,7 +434,7 @@
     display: flex;
     gap: 12px;
     color: #253858;
-    font-family: Poppins, Arial, Helvetica, sans-serif;
+    font-family: Poppins, serif;
     font-size: 15px;
     font-weight: 500;
     margin: 12px 0;
