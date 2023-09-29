@@ -442,4 +442,47 @@
     padding: 12px 12px;
     background: #f7f7f9;
   }
+  .container {
+    margin-top: 300px;
+    display: flex;
+    background-image: url('./Contact\ me.svg');
+    background-repeat: no-repeat;
+    border-top-left-radius: 80px ;
+    height: 750px;
+    width: 100vw;
+    position: relative;
+    overflow: visible;
+}
+.contacttext {
+    font-family: poppins, serif;
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    text-align: center;
+    width: 801px;
+    height: 56px;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    left: 70px;
+    white-space: nowrap;
+      
+}
+.description{
+    width: 327px;
+    height: 137px;
+    flex-shrink: 0;
+color: #EBEBFF;
+font-size: 20px;
+font-family: Poppins;
+font-weight: 400;
+line-height: 28px;
+word-wrap: break-word;
+text-align: center;
+position: relative;
+top: 165px;
+left: -220px;
+justify-content: center;
+}
 }
