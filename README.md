@@ -7,6 +7,8 @@
   - [🛠 Built With](#built-with)
     - [Key Features](#key-features)
 - [👥 Authors](#authors)
+- [LICENSE](#license)
+- [👥 Contributors](#contributors)
 
 # 📖 Portfolio-Project <a name="about-project"></a>
 
@@ -23,6 +25,14 @@ approach.
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Mehar-Aziz**
-
 - GitHub: [@githubhandle](https://github.com/Mehar-Aziz)
+
+## 👥 Contributors <a name="contributers"></a>
+👤 **Bisma-Aslam**
+- GitHub: [@githubhandle](https://github.com/Bisma-Aslam)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## License <a name="license"></a>
+
+[MIT License](LICENSE)
