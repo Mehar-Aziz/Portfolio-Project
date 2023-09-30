@@ -453,6 +453,7 @@
     display: flex;
     background-image: url('./contact\ form\ shapes-mobile.svg');
     background-color: #6070ff;
+    background-position: right;
     background-repeat: no-repeat;
     padding-bottom: 10px;
     border-top-left-radius: 80px;
