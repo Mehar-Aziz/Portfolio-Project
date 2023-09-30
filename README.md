@@ -7,8 +7,8 @@
   - [🛠 Built With](#built-with)
     - [Key Features](#key-features)
 - [👥 Authors](#authors)
-- [LICENSE] (#license)
-- [👥 Contributors] (#contributors)
+- [LICENSE](#license)
+- [👥 Contributors](#contributors)
 
 # 📖 Portfolio-Project <a name="about-project"></a>
 
