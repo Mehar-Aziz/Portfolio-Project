@@ -37,8 +37,8 @@
     height: 100%;
     padding-left: 12px;
     padding-right: 12px;
-    padding-top: 10px;
     padding-bottom: 10px;
+    padding-top: 10px;
     justify-content: flex-start;
     align-items: center;
     display: inline-flex;
@@ -453,8 +453,8 @@
     display: flex;
     background-image: url('./contact\ form\ shapes-mobile.svg');
     background-color: #6070ff;
-    background-position: right;
     background-repeat: no-repeat;
+    padding-bottom: 10px;
     border-top-left-radius: 80px;
     height: 750px;
     width: 100vw;
