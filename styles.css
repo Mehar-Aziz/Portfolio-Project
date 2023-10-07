@@ -96,7 +96,7 @@
   .primary-text {
     color: var(--theme-1-neutrals-1, #091e42);
     text-align: left;
-    font: var(--header-1, 700 48px/60px "Poppins", sans-serif);
+    font: var(--header-1, 700 40px/60px "Poppins", sans-serif);
     position: relative;
     width: 920px;
     height: 122px;
@@ -678,9 +678,8 @@
   .headline {
     background-image: url('./Header\ bg.svg');
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
     background-color: white;
+    background-position: left;
     width: 100%;
     height: 846px;
     position: relative;
