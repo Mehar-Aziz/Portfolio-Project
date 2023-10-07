@@ -1304,15 +1304,17 @@
     padding-left: 22px;
     padding-right: 16px;
   }
+
   .counter-left-1 {
     position: relative;
-    top: -50px; 
-    left:-1170px;
+    top: -50px;
+    left: -1170px;
     width: 8px;
     height: 8px;
     background: #c1c7d0;
     border-radius: 9999px;
   }
+
   .primarytext-1 {
     font-size: 15px;
     color: var(--neutrals-n-600, #344563);
