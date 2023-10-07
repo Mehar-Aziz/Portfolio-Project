@@ -1164,6 +1164,23 @@
     position: relative;
   }
 
+  .listbox {
+    display: inline-block;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: var(--neutrals-n-0, #fff);
+    border-width: 1px;
+    width: 48px;
+    height: 48px;
+    left: calc(50% - 49px);
+    top: 12px;
+  }
+
+  .word {
+    position: relative;
+    top: 10px;
+  }
+
   .container {
     margin-top: 300px;
     display: flex;
