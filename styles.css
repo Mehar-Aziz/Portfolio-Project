@@ -633,7 +633,6 @@
     position: absolute;
     left: 143px;
     top: calc(50% - 20px);
-    overflow: hidden;
   }
 
   .mylogo {
@@ -642,6 +641,7 @@
     font: 700 18px/20px "Poppins", sans-serif;
     position: relative;
     display: flex;
+    left: -90px;
     align-items: center;
     justify-content: center;
   }
